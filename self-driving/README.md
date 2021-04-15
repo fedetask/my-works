@@ -1,4 +1,5 @@
 ## Self-learned vehicle control using PPO
+*Oleguer Canal, Federico Taschin*
 
 **Abstract**: This work tackles the completion of an obstacle maze by a selfdriving vehicle. We solve it combining two main ideas: First, we plan
 an approximate path running Dijkstra on the environment’s Visibility

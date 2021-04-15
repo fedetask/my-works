@@ -1,4 +1,7 @@
 # [Re] Hamiltonian Generative Networks
+*Carles Balsells Rdoas, Oleguer Canal, Federico Taschin*
+
+
 Re-implementation of [Hamiltonian Generative Networks](https://arxiv.org/abs/1909.13789).
 Learning Hamiltonian dynamics from videos of simulated phisical environments.
 We provide the first open-source implementation, reproduce the experiments, perform additional experiments
