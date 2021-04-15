@@ -12,6 +12,6 @@ attempted in both maze completion time and natural driving feel,
 making us the team with lowest summed time added over all test
 tracks.
 
-<img src="https://campusai.github.io/_experiments/autonomous_driving/icon.gif" width="200px">
+![Gif of vehicle following the path](self-driving.gif)
 
 Read our [blog post](https://campusai.github.io/experiments/autonomous_driving) or the [full report](report.pdf)
