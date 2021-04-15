@@ -1,5 +1,5 @@
 # [Re] Hamiltonian Generative Networks
-*Carles Balsells Rdoas, Oleguer Canal, Federico Taschin*
+*Carles Balsells Rodas, Oleguer Canal, Federico Taschin*
 
 
 Re-implementation of [Hamiltonian Generative Networks](https://arxiv.org/abs/1909.13789).
