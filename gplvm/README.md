@@ -1,5 +1,5 @@
 # Gaussian Process Latent Variable Model
-*Carles Balsells Rdoas, Oleguer Canal, Nuria Marzo, Federico Taschin*
+*Carles Balsells Rodas, Oleguer Canal, Nuria Marzo, Federico Taschin*
 
 This work further develops on the Lawrence et al. papers [1] and [2]. We first replicate the algorithm and evaluate it on the same datasets as the original author. In addition, we apply it to new data and provide a more extensive assessment of its performance against similar methods such as PCA and Kernel PCA.
 
