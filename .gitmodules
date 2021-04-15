@@ -1,3 +1,6 @@
 [submodule "self-driving/code"]
 	path = self-driving/code
 	url = git@github.com:OleguerCanal/KTH_MA-autonomous-driving.git
+[submodule "hamiltonian-generative-networks/Hamiltonian-Generative-Networks"]
+	path = hamiltonian-generative-networks/Hamiltonian-Generative-Networks
+	url = git@github.com:CampusAI/Hamiltonian-Generative-Networks.git
